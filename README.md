@@ -1,12 +1,11 @@
 # Global E-commerce Customer Analytics - SQL
 
 ## Project Overview
+In this project, an  exploratory analysis was performed for an e-commerce company (using a synthetic dataset) to reveal insights into revenue generation, loyalty patterns, customer behaviours and churn characteristics. 
 
-This project performs exploratory customer analytics for an e-commerce company using SQL Server to uncover insights into customer behaviour, revenue generation, loyalty patterns, and churn characteristics.
+Specifically, the analysis focused on identifying key revenue drivers, evaluating customer value, and analysing factors associated with churn and customer retention.
 
-The analysis focuses on understanding customer segments, identifying key revenue drivers, evaluating customer value, and analysing factors associated with customer retention and churn.
-
-Core areas covered in this project include data exploration, customer profile analysis, customer value analysis, customer segmentation, loyalty analysis, and churn analysis.
+Core areas covered in this project include data exploration, customer profile analysis, customer value analysis, customer segmentation, loyalty analysis, and churn analysis using SQL Server.
 
 
 ``` 
