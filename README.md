@@ -1,6 +1,6 @@
 # ecommerce_customer_analytics_sql
 
-s
+
 
 ## ecommerce_customer_analytics/
 │   README.md
