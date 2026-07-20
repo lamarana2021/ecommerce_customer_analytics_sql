@@ -1,6 +1,6 @@
 # ecommerce_customer_analytics_sql
 
-
+``` 
 
 ## ecommerce_customer_analytics/
 │   README.md /
@@ -19,3 +19,4 @@
         4_customer_segmentation.sql
         5_churn_analysis.sql
         master_file.sql
+```
