@@ -30,6 +30,13 @@ During the analysis, the following questions were explored:
    - Are there differences in engagement metrics between churn groups?
 
 
+## Tools & Technologies used
+- SQL Server
+- T-SQL
+- Common Table Expressions (CTEs)
+- Window and Aggregate Functions
+
+
 ``` 
 
 ecommerce_customer_analytics/
