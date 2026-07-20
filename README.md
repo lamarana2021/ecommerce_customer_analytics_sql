@@ -1,5 +1,9 @@
 # ecommerce_customer_analytics_sql
 
+## Repository Structure:
+
+
+
 ``` 
 
 ## ecommerce_customer_analytics/
