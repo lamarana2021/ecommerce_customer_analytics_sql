@@ -36,9 +36,8 @@ During the analysis, the following questions were explored:
 - Common Table Expressions (CTEs)
 - Window and Aggregate Functions
 
-
+## Repository Structure
 ``` 
-
 ecommerce_customer_analytics/
 │   README.md /
 │
