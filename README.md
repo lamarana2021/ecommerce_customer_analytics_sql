@@ -1,4 +1,4 @@
-#Project Title: Global E-commerce Customer Analytics - SQL
+# Project Title: Global E-commerce Customer Analytics - SQL
 
 ## Project Overview
 In this project, an  exploratory analysis was performed for an e-commerce company (using a synthetic dataset) to reveal insights into revenue generation, loyalty patterns, customer behaviours and churn characteristics. 
