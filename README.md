@@ -3,7 +3,7 @@
 
 
 ## ecommerce_customer_analytics/
-│   README.md
+│   README.md /
 │
 ├───dataset
 │       data_dictionary.csv
