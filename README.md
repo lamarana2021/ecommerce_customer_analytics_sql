@@ -1,8 +1,8 @@
-# ecommerce_customer_analytics_sql
+# Global E-commerce Customer Analytics - SQL
 
 ## Project Overview
 
-## Repository Structure:
+This project is designed to help an e-commerce company gain valuable insights for better decision-making. Core areas of concentration in this project include data cleaning, customer profile analysis, customer value analysis, customer segmentation, and churn analysis.
 
 ``` 
 
