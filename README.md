@@ -2,11 +2,16 @@
 
 ## Project Overview
 
-This project is designed to help an e-commerce company gain valuable insights for better decision-making. Core areas of concentration in this project include data cleaning, customer profile analysis, customer value analysis, customer segmentation, and churn analysis.
+This project performs exploratory customer analytics for an e-commerce company using SQL Server to uncover insights into customer behaviour, revenue generation, loyalty patterns, and churn characteristics.
+
+The analysis focuses on understanding customer segments, identifying key revenue drivers, evaluating customer value, and analysing factors associated with customer retention and churn.
+
+Core areas covered in this project include data exploration, customer profile analysis, customer value analysis, customer segmentation, loyalty analysis, and churn analysis.
+
 
 ``` 
 
-## ecommerce_customer_analytics/
+ecommerce_customer_analytics/
 │   README.md /
 │
 ├───dataset
