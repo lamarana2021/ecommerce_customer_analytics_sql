@@ -1,4 +1,4 @@
-# Project Title: Global E-commerce Customer Analytics - SQL
+# Project Title: Global E-commerce Customer Analytics (SQL)
 
 ## Project Overview
 In this project, an  exploratory analysis was performed for an e-commerce company (using a synthetic dataset) to reveal insights into revenue generation, loyalty patterns, customer behaviours and churn characteristics. 
@@ -7,6 +7,14 @@ Specifically, the analysis focused on identifying key revenue drivers, evaluatin
 
 Core areas covered in this project include data exploration, customer profile analysis, customer value analysis, customer segmentation, loyalty analysis, and churn analysis using SQL Server.
 
+## Dataset Description
+A synthetic global e-commerce customer dataset of **1,200 customers** obtained from [Kaggle](https://www.kaggle.com/datasets/anasriaz/global-e-commerce-customer-analytics-2024) was used in this project. It includes purchasing behaviour, customer demographics, engagement and target (churn vs retained)
+
+### Key variables
+- **Purchase Behaviour:** Revenue, Orders, Average Order Value, Preferred Category, Loyalty Tier, Payment Method
+- **Customer Profile:** Country, Gender, Region, Age, Income Bracket
+- **Engagement:** Satisfaction Score, Discount Usage, Return Rate, Newsletter Subscription
+- **Target Variable:** Churn (1 = churned, 0  = Otherwise)
 
 ## Key Business Questions
 
