@@ -1,5 +1,6 @@
 # Project Title: Global E-commerce Customer Analytics (SQL)
-
+![ecommerce_customer_analytics_sql](image/global-ecommerce.webp)
+*Source: [Unidigital](https://undigital.com/hs-fs/hubfs/importance-of-global-ecommerce.webp?width=1200&height=675&name=importance-of-global-ecommerce.webp)*
 ## Project Overview
 In this project, an  exploratory analysis was performed for an e-commerce company (using a synthetic dataset) to reveal insights into revenue generation, loyalty patterns, customer behaviours and churn characteristics. 
 
