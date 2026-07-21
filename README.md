@@ -1,6 +1,10 @@
+
+
 # Project Title: Global E-commerce Customer Analytics (SQL)
 ![ecommerce_customer_analytics_sql](image/global-ecommerce.webp)
 *Source: [Unidigital](https://undigital.com/hs-fs/hubfs/importance-of-global-ecommerce.webp?width=1200&height=675&name=importance-of-global-ecommerce.webp)*
+
+
 ## Project Overview
 In this project, an  exploratory analysis was performed for an e-commerce company (using a synthetic dataset) to reveal insights into revenue generation, loyalty patterns, customer behaviours and churn characteristics. 
 
@@ -41,9 +45,10 @@ During the analysis, the following questions were explored:
 
 ## Tools & Technologies used
 - SQL Server
-- T-SQL
+- Github 
 - Common Table Expressions (CTEs)
 - Window and Aggregate Functions
+
 
 ## Repository Structure
 ``` 
@@ -71,6 +76,29 @@ ecommerce_customer_analytics
   *e-commerce customer dataset*.
 - **docs:** This would contain the pdf files for the project later on.
 - **scripts:** This folder contains the SQL Server queries used for data quality checks, customer profile, customer value,  churn analysis and a master file which is basically a union of all sql files (1-5).
+
+## Data Analysis
+
+### 1. Data Quality
+   - Available columns and dataset structure was reviewed
+   - Null values checking across columns
+   - Verifying remaining data
+### 2. Customer Profile
+   - Customer profile based on demographic, income and loyalty characteristics to understand the composition od the customer base.
+### 3. Customer Value Analysis
+   - Evaluated customer value and purchasing behaviour by loyalty tier
+   - Identified the top 5 countries in terms of revenue contribution, and order volume
+   - Ranked countries based on revenue contribution
+### 4. Customer Segmentation Analysis
+   - Compared spending behaviour and lifetime across age groups
+   - Identify the loyalty tier that has the largest number of customer in each income group
+   - Identify the top 3 preferred categories in each loyalty tier
+   - For each income group, Identify the percentage of customers belonging to each loylaty tier
+### 5. Churn Analysis
+   - Compare lifetime and purchasing behaviour (spending, orders, recency) between churned and retained customers
+   - Analyse churn by loyalty tiers, income groups and regions
+   -  Investigated whether customer engagement factors, including satisfaction, newsletter subscription, discounts, returns were associated with churn.
+
 
 
 
