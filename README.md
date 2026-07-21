@@ -99,6 +99,10 @@ ecommerce_customer_analytics
    - Analyse churn by loyalty tiers, income groups and regions
    -  Investigated whether customer engagement factors, including satisfaction, newsletter subscription, discounts, returns were associated with churn.
 
+## Key Insights
+
+
+
 
 
 
