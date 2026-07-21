@@ -66,7 +66,8 @@ ecommerce_customer_analytics
 ```
 
 ## Structure Description
-- **dataset:** This folder contains the *data dictionary*, which includes the variables, data type, and description. It also contains the actual *e-commerce customer dataset*.
+- **dataset:** This folder contains the *data dictionary*, which includes the variables, data type, and description. It also contains the actual <br>
+  *e-commerce customer dataset*.
 - **docs:** This would contain the pdf files for the project later on.
 - **scripts:** This folder contains the SQL Server queries used for data quality checks, customer profile, customer value,  churn analysis and a master file which is basically a union of all sql files (1-5).
 
