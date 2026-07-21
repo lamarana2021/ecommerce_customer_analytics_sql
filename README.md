@@ -10,7 +10,7 @@ Core areas covered in this project include data exploration, customer profile an
 ## Dataset Description
 A synthetic global e-commerce customer dataset of **1,200 customers** obtained from [Kaggle](https://www.kaggle.com/datasets/anasriaz/global-e-commerce-customer-analytics-2024) was used in this project. It includes purchasing behaviour, customer demographics, engagement and target (churn vs retained)
 
-### Key variables
+### Key Variables
 - **Purchase Behaviour:** Revenue, Orders, Average Order Value, Preferred Category, Loyalty Tier, Payment Method
 - **Customer Profile:** Country, Gender, Region, Age, Income Bracket
 - **Engagement:** Satisfaction Score, Discount Usage, Return Rate, Newsletter Subscription
@@ -46,8 +46,8 @@ During the analysis, the following questions were explored:
 
 ## Repository Structure
 ``` 
-ecommerce_customer_analytics/
-│   README.md /
+ecommerce_customer_analytics
+│   README.md 
 │
 ├───dataset
 │       data_dictionary.csv
@@ -64,3 +64,26 @@ ecommerce_customer_analytics/
         5_churn_analysis.sql
         master_file.sql
 ```
+
+## Structure Description
+- **dataset:** This folder contains the *data dictionary*, which includes the variables, data type, and description. It also contains the actual *e-commerce customer dataset*.
+- **docs:** This would contain the pdf files for the project later on.
+- **scripts:** This folder contains the SQL Server queries used for data quality checks, customer profile, customer value,  churn analysis and a master file which is basically a union of all sql files (1-5).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
