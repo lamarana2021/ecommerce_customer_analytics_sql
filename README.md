@@ -101,9 +101,8 @@ ecommerce_customer_analytics
 
 ## Key Insights
 ### Customer Profile Analysis: 
-   - Customer profile analysis revealed the distribution of customers across demographic, geographic, and loyalty tiers.
+   - Customer profile analysis revealed the distribution of customers across demographic, geographic, and loyalty tiers. Across loyalty tiers, Silver and Gold had       equal numbers of customers, with Platinum slightly fewer and Bronze the fewest.
    - Lower-income groups accounted for approximately **65%** of customers, and **66%** of customers reside in Europe and North America, with the UK, Germany, and       the US having the largest markets.
-   - Across loyalty tiers, Silver and Gold had equal numbers of customers, with Platinum slightly fewer and Bronze the fewest.
      
 ### Customer Value Analysis:
    - Customer value analysis revealed that Platinum customers contributed about **77%** in the dataset, indicating a strong concentration of customers across high-value customers. Moreover, while the US, UK and Germany were found to be the top 3 countries in terms of revenue and number of orders, the average order           value of the UK and Germany was larger than that of the US, suggesting differences in purchasing behaviour across countries
@@ -115,6 +114,9 @@ ecommerce_customer_analytics
      
    - Preferred product categories varied across loyalty tiers, with Platinum customers showing stronger preferences for categories such as Clothing & Fashion, Food & Groceries, and Beauty & Personal Care. This suggests opportunities for targeted marketing and personalised product recommendations across customer groups.
 
+### Churn Analysis
+   - Churn analysis revealed that approximately **67%** of customers churned, and only about **33%** did not churn. Despite the low number of retained customers,       they contributed about **68%** of average spending. Moreover, retained customers had higher average orders and average lifetime, which all suggests that high-value customers are more likely to be retained and vice versa.
+   - Lower  loyalty tiers had the highest level of churn, with Bronze having about **88%** churn and contributing to a loss of about  **$28K**. However, Platinum       customers, with a churn rate of about 58%, led to a **2.58M revenue loss**. This highlights the importance of retention strategies prioritising high-value          customers but also making efforts to reduce churn on lower-level customers
 
 
 
