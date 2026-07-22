@@ -80,36 +80,40 @@ ecommerce_customer_analytics
 ## Data Analysis
 
 ### 1. Data Quality
-   - Available columns and dataset structure was reviewed
-   - Null values checking across columns
+   - Available columns and dataset structure were reviewed
+   - Null value checking across columns
    - Verifying remaining data
 ### 2. Customer Profile
-   - Customer profile based on demographic, income and loyalty characteristics to understand the composition od the customer base.
+   - Customer profile based on demographic, income and loyalty characteristics to understand the composition of the customer base.
 ### 3. Customer Value Analysis
    - Evaluated customer value and purchasing behaviour by loyalty tier
-   - Identified the top 5 countries in terms of revenue contribution, and order volume
+   - Identified the top 5 countries in terms of revenue contribution and order volume
    - Ranked countries based on revenue contribution
 ### 4. Customer Segmentation Analysis
    - Compared spending behaviour and lifetime across age groups
-   - Identify the loyalty tier that has the largest number of customer in each income group
-   - Identify the top 3 preferred categories in each loyalty tier
-   - For each income group, Identify the percentage of customers belonging to each loylaty tier
+   - Identified the loyalty tier that has the largest number of customers in each income group
+   - Identified the top 3 preferred categories in each loyalty tier
+   - For each income group, identify the percentage of customers belonging to each loyalty tier
 ### 5. Churn Analysis
    - Compare lifetime and purchasing behaviour (spending, orders, recency) between churned and retained customers
    - Analyse churn by loyalty tiers, income groups and regions
-   -  Investigated whether customer engagement factors, including satisfaction, newsletter subscription, discounts, returns were associated with churn.
+   - Investigated whether customer engagement factors, including satisfaction, newsletter subscription, discounts, and returns, were associated with churn.
 
 ## Key Insights
+### Customer Profile Analysis: 
+   - Customer profile analysis revealed the distribution of customers across demographic, geographic, and loyalty tiers.
+   - Lower-income groups accounted for approximately **65%** of customers, and **66%** of customers reside in Europe and North America, with the UK, Germany, and       the US having the largest markets.
+   - Across loyalty tiers, Silver and Gold had equal numbers of customers, with Platinum slightly fewer and Bronze the fewest.
+     
+### Customer Value Analysis:
+   - Customer value analysis revealed that Platinum customers contributed about **77%** in the dataset, indicating a strong concentration of customers across high-value customers. Moreover, while the US, UK and Germany were found to be the top 3 countries in terms of revenue and number of orders, the average order           value of the UK and Germany was larger than that of the US, suggesting differences in purchasing behaviour across countries
 
+   - Across countries, the average revenue per customer varies significantly, with Spain, the UK, Germany, Australia, and Brazil showing the highest average revenue per customer, and the US showing a low level (ranked 12) of average customer revenue contribution. This clearly shows a difference between market size and   individual customer value, suggesting the need for growth strategies targeting both customer volume and spending behaviour.
 
-
-
-
-
-
-
-
-
+### Customer Segmentation Analysis
+   - Customer segmentation analysis showed that the Platinum tier recorded the highest number of customers in the higher income brackets, while the Gold tier was the highest in the mid-level income brackets, and the Silver tier was the highest in the lower income bracket.
+     
+   - Preferred product categories varied across loyalty tiers, with Platinum customers showing stronger preferences for categories such as Clothing & Fashion, Food & Groceries, and Beauty & Personal Care. This suggests opportunities for targeted marketing and personalised product recommendations across customer groups.
 
 
 
