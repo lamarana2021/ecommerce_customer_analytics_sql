@@ -115,10 +115,21 @@ ecommerce_customer_analytics
    - Preferred product categories varied across loyalty tiers, with Platinum customers showing stronger preferences for categories such as Clothing & Fashion, Food & Groceries, and Beauty & Personal Care. This suggests opportunities for targeted marketing and personalised product recommendations across customer groups.
 
 ### Churn Analysis
-   - Churn analysis revealed that approximately **67%** of customers churned, and only about **33%** did not churn. Despite the low number of retained customers,       they contributed about **68%** of average spending. Moreover, retained customers had higher average orders and average lifetime, which all suggests that high-value customers are more likely to be retained and vice versa.
-   - Lower  loyalty tiers had the highest level of churn, with Bronze having about **88%** churn and contributing to a loss of about  **$28K**. However, Platinum       customers, with a churn rate of about 58%, led to a **2.58M revenue loss**. This highlights the importance of retention strategies prioritising high-value          customers but also making efforts to reduce churn on lower-level customers
+   - Churn analysis revealed that approximately **67%** of customers churned, and only about **33%** did not churn. Despite the low number of retained customers,       they contributed about **68%** of average spending. Moreover, retained customers had higher average order volume and lifetime, which suggests that high-value customers are more likely to be retained and vice versa.
+   - Lower  loyalty tiers had the highest level of churn, with Bronze having about **88%** churn and contributing to a loss of about  **$28K**. However, Platinum       customers, with a churn rate of about 58%, led to a **2.58M revenue loss**. This highlights the importance of retention strategies that prioritise high-value customers while also reducing churn among lower-value customers.
+
+### Future Improvements
+   - Use machine learning techniques to identify customers at a high risk of churn
+   - Improve stakeholder reporting and data visualisation by using interactive tools such as Power BI
+   - Use a real-world e-commerce dataset to find out whether the behavioural patterns  and churn drivers would generalise to real business environments
 
 
+
+
+## Author
+**LAMARANA BAH**  
+Data Analyst | Financial Analyst | Business Analyst  
+[LinkedIn](https://www.linkedin.com/in/lamaranabah/)
 
 
 
